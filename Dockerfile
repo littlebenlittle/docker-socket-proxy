@@ -14,6 +14,7 @@ ENV ALLOW_RESTARTS=0 \
     EVENTS=1 \
     EXEC=0 \
     GRPC=0 \
+    HTTP_PATH_PREFIX='' \
     IMAGES=0 \
     INFO=0 \
     LOG_LEVEL=info \
